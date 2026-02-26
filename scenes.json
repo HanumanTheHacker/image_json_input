@@ -1,0 +1,26 @@
+{
+  "max_character_slots": 4,
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "characters": ["mother.png"],
+      "environment": "village_road.png",
+      "prompt": "Maya standing on a dirt road in a stylized village, full body visible, correct scale relative to huts and trees, soft daylight, feet firmly on the ground",
+      "output_name": "scene_01_maya_village"
+    },
+    {
+      "scene_id": "scene_02",
+      "characters": ["rahul.png"],
+      "environment": "village_road.png",
+      "prompt": "Rahul standing on a village street, full body visible, correct scale relative to surrounding houses and trees, natural relaxed stance, soft daylight, feet on the ground",
+      "output_name": "scene_02_rahul_village_street"
+    },
+    {
+      "scene_id": "scene_03",
+      "characters": ["rahul.png", "grand_father.png"],
+      "environment": "village_road.png",
+      "prompt": "Rahul and his grandfather talking on a village street, both facing each other in conversation, grandfather slightly taller with a calm elder posture, Rahul attentive and engaged, correct scale relative to surroundings, soft warm daylight",
+      "output_name": "scene_03_rahul_grandfather_talking"
+    }
+  ]
+}
