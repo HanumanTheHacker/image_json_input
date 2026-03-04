@@ -3,24 +3,83 @@
   "scenes": [
     {
       "scene_id": "scene_01",
-      "characters": ["mother.png"],
+      "script_id": 1,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png"],
       "environment": "village_road.png",
-      "prompt": "Maya standing on a dirt road in a stylized village, full body visible, correct scale relative to huts and trees, soft daylight, feet firmly on the ground",
-      "output_name": "scene_01_maya_village"
+      "prompt": "A cute 2D cartoon Indian boy riding a small bicycle, keep the exact same face, hairstyle, outfit and colors from the reference image. Start moving forward smoothly on a narrow mud road in an Indian village. Side tracking camera, slightly low angle, warm evening sunlight, clean outlines, soft shading, consistent proportions, stable character identity.",
+      "output_name": "scene_01"
     },
     {
       "scene_id": "scene_02",
+      "script_id": 2,
+      "type": "actor",
+      "character": "Rahul",
       "characters": ["rahul.png"],
       "environment": "village_road.png",
-      "prompt": "Rahul standing on a village street, full body visible, correct scale relative to surrounding houses and trees, natural relaxed stance, soft daylight, feet on the ground",
-      "output_name": "scene_02_rahul_village_street"
+      "prompt": "Continue the same shot seamlessly. The boy pedals past small village houses with tiled roofs and flowering plants near the doors. Light breeze moves the trees gently. Keep the character identity and outfit unchanged, smooth leg cycling motion, consistent 2D animation style, no flicker, no logo changes.",
+      "output_name": "scene_02"
     },
     {
       "scene_id": "scene_03",
+      "script_id": 3,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png"],
+      "environment": "village_road_home.png",
+      "prompt": "Continue forward. The boy reaches his small home at the end of the road and slowly stops the bicycle near the gate. The house has simple painted walls, a small veranda, and a wooden door. Maintain exact same character face, hairstyle, outfit and bicycle design. Smooth stopping motion, stable camera, consistent lighting.",
+      "output_name": "scene_03"
+    },
+    {
+      "scene_id": "scene_04",
+      "script_id": 4,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png"],
+      "environment": "house_entrance.png",
+      "prompt": "Continue seamlessly. The boy parks the bicycle near the wall and walks toward the house entrance. He gently pushes the wooden door open and steps inside. Interior lighting becomes slightly softer and warmer. Maintain consistent 2D cartoon style, smooth walking animation, no character distortion.",
+      "output_name": "scene_04"
+    },
+    {
+      "scene_id": "scene_05",
+      "script_id": 5,
+      "type": "actor",
+      "character": "Rahul",
       "characters": ["rahul.png", "grand_father.png"],
-      "environment": "village_road.png",
-      "prompt": "Rahul and his grandfather talking on a village street, both facing each other in conversation, grandfather slightly taller with a calm elder posture, Rahul attentive and engaged, correct scale relative to surroundings, soft warm daylight",
-      "output_name": "scene_03_rahul_grandfather_talking"
+      "environment": "house_interior.png",
+      "prompt": "Inside the house, the boy sees his grandfather sitting on a wooden chair looking very annoyed while holding a mobile phone. The grandfather is elderly, with grey hair and simple traditional clothing. Keep the boy's character identity unchanged. Stable composition, soft indoor lighting, clean outlines, no jitter.",
+      "output_name": "scene_05"
+    },
+    {
+      "scene_id": "scene_06",
+      "script_id": 6,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png", "grand_father.png"],
+      "environment": "house_interior.png",
+      "prompt": "Continue seamlessly. The grandfather looks at the phone and talks to himself in frustration, slightly shaking his head. The boy stands nearby watching quietly. Subtle natural gestures, consistent character proportions, smooth facial expressions, stable 2D animation style.",
+      "output_name": "scene_06"
+    },
+    {
+      "scene_id": "scene_07",
+      "script_id": 7,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png", "grand_father.png"],
+      "environment": "house_interior.png",
+      "prompt": "Continue forward. The boy gently approaches his grandfather and sits beside him, curiously looking at the phone screen. The grandfather begins explaining something calmly. Warm indoor atmosphere, soft shading, consistent character design, smooth hand gestures, no flicker.",
+      "output_name": "scene_07"
+    },
+    {
+      "scene_id": "scene_08",
+      "script_id": 8,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png", "grand_father.png"],
+      "environment": "house_interior_evening.png",
+      "prompt": "Continue and end the sequence gently. The boy smiles and helps his grandfather with the phone. The grandfather's expression changes from annoyed to relieved. Camera slowly zooms out slightly, warm evening light coming through a window. Maintain exact same character identities, stable animation, clean outlines, no scene reset, smooth cinematic ending.",
+      "output_name": "scene_08"
     }
   ]
 }
