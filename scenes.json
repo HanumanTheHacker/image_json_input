@@ -2,6 +2,16 @@
   "max_character_slots": 4,
   "scenes": [
     {
+      "scene_id": "scene_05",
+      "script_id": 5,
+      "type": "actor",
+      "character": "Rahul",
+      "characters": ["rahul.png", "grand_father.png"],
+      "environment": "house_interior.png",
+      "prompt": "Inside the house, the boy sees his grandfather sitting on a wooden chair looking very annoyed while holding a mobile phone. The grandfather is elderly, with grey hair and simple traditional clothing. Keep the boy's character identity unchanged. Stable composition, soft indoor lighting, clean outlines, no jitter.",
+      "output_name": "scene_05"
+    },
+    {
       "scene_id": "scene_01",
       "script_id": 1,
       "type": "actor",
@@ -40,16 +50,6 @@
       "environment": "house_entrance.png",
       "prompt": "Continue seamlessly. The boy parks the bicycle near the wall and walks toward the house entrance. He gently pushes the wooden door open and steps inside. Interior lighting becomes slightly softer and warmer. Maintain consistent 2D cartoon style, smooth walking animation, no character distortion.",
       "output_name": "scene_04"
-    },
-    {
-      "scene_id": "scene_05",
-      "script_id": 5,
-      "type": "actor",
-      "character": "Rahul",
-      "characters": ["rahul.png", "grand_father.png"],
-      "environment": "house_interior.png",
-      "prompt": "Inside the house, the boy sees his grandfather sitting on a wooden chair looking very annoyed while holding a mobile phone. The grandfather is elderly, with grey hair and simple traditional clothing. Keep the boy's character identity unchanged. Stable composition, soft indoor lighting, clean outlines, no jitter.",
-      "output_name": "scene_05"
     },
     {
       "scene_id": "scene_06",
