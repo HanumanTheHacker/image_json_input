@@ -8,8 +8,7 @@
       "character": "Rahul",
       "characters": ["rahul.png", "grand_father.png"],
       "environment": "house_interior.png",
-      "prompt": "Inside the house, the boy sees his grandfather sitting on a wooden chair looking very annoyed while holding a mobile phone. The grandfather is elderly, with grey hair and simple traditional clothing. Keep the boy's character identity unchanged. Stable composition, soft indoor lighting, clean outlines, no jitter.",
-      "output_name": "scene_05"
+      "prompt": "Inside a warmly lit Indian home interior. A young Indian boy with black spiky hair, yellow T-shirt with blue lightning bolt, blue shorts stands near the doorway watching. An elderly grandfather with bald head, white hair tufts, white mustache, white shirt, khaki shorts sits on a wooden chair holding a mobile phone with an annoyed expression. Both characters visible in the same frame. Soft indoor lighting, clean 2D cartoon outlines, stable composition."      "output_name": "scene_05"
     },
     {
       "scene_id": "scene_01",
