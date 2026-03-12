@@ -1,4 +1,4 @@
-[
+{"scenes":[
   {
     "scene_id": "scene_01",
     "clip_index": 1,
@@ -326,3 +326,4 @@
     "prompt": "Final wide shot of grandfather and grandson in warm lit room grandfather holding phone proudly. Soft golden light, stable composition, clean outlines, gentle fade, 2D animation style."
   }
 ]
+}
