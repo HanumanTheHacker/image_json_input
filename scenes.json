@@ -38,9 +38,9 @@
     {
       "scene_id": "scene_06",
       "environment": "house_interior.png",
-      "characters": ["grand_father1.png"],
-      "active_chars": 1,
-      "prompt": "Inside a simple mud-walled room, an elderly grandfather sits on a wooden chair holding a mobile phone awkwardly with a frustrated expression. Soft warm indoor lighting from window, subtle shadows, stable composition, clear character details."
+      "characters": ["rahul.png", "grand_father1.png"],
+      "active_chars": 2,
+      "prompt": "Inside a simple mud-walled room, an elderly grandfather sits on a wooden chair in the foreground holding a mobile phone awkwardly with a frustrated expression. A young boy in a yellow shirt stands behind him in the background watching. Camera positioned to show grandfather prominently with boy visible behind, soft warm indoor lighting from window, subtle shadows, stable composition, clear character details, depth staging with grandfather closer to camera."
     },
     {
       "scene_id": "scene_07",
