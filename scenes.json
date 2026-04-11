@@ -38,42 +38,42 @@
     {
       "scene_id": "scene_06",
       "environment": "house_interior.png",
-      "characters": ["grand_father.png"],
+      "characters": ["grand_father1.png"],
       "active_chars": 1,
       "prompt": "Inside a simple mud-walled room, an elderly grandfather sits on a wooden chair holding a mobile phone awkwardly with a frustrated expression. Soft warm indoor lighting from window, subtle shadows, stable composition, clear character details."
     },
     {
       "scene_id": "scene_07",
       "environment": "house_interior.png",
-      "characters": ["rahul.png", "grand_father.png"],
+      "characters": ["rahul.png", "grand_father1.png"],
       "active_chars": 2,
       "prompt": "The grandfather gestures in frustration while holding the phone incorrectly, slightly shaking his head. The boy stands beside him watching quietly. Two-shot composition, natural gestures, warm indoor atmosphere, consistent character identities."
     },
     {
       "scene_id": "scene_08",
       "environment": "house_interior.png",
-      "characters": ["rahul.png", "grand_father.png"],
+      "characters": ["rahul.png", "grand_father1.png"],
       "active_chars": 2,
       "prompt": "The boy leans in closer and points toward the phone screen, beginning to explain. The grandfather leans forward curiously. Over-the-shoulder camera angle, focus on interaction, smooth motion, warm lighting, clean outlines."
     },
     {
       "scene_id": "scene_09",
       "environment": "house_interior.png",
-      "characters": ["rahul.png", "grand_father.png"],
+      "characters": ["rahul.png", "grand_father1.png"],
       "active_chars": 2,
       "prompt": "Close-up of the phone screen with the boy’s finger hovering near the camera button while explaining confidently. The grandfather watches closely. Tight framing, clear detail, stable animation, consistent character hands and proportions."
     },
     {
       "scene_id": "scene_10",
       "environment": "house_interior.png",
-      "characters": ["grand_father.png"],
+      "characters": ["grand_father1.png"],
       "active_chars": 1,
       "prompt": "Close-up of the grandfather’s face as his expression shifts from confusion to curiosity, eyes slightly widened and leaning forward. Soft warm lighting highlights facial emotion, smooth transition, stable character identity."
     },
     {
       "scene_id": "scene_11",
       "environment": "house_interior.png",
-      "characters": ["rahul.png", "grand_father.png"],
+      "characters": ["rahul.png", "grand_father1.png"],
       "active_chars": 2,
       "prompt": "Both the boy and grandfather sit together looking at the phone calmly. The boy gently explaining while the grandfather listens attentively. Side angle composition, peaceful mood, warm indoor light, consistent character design."
     },
@@ -87,14 +87,14 @@
     {
       "scene_id": "scene_13",
       "environment": "house_interior_evening.png",
-      "characters": ["grand_father.png"],
+      "characters": ["grand_father1.png"],
       "active_chars": 1,
       "prompt": "The grandfather smiles warmly for the first time, relaxed face and slight laugh expression, holding the phone comfortably. Close-up shot, soft golden lighting, emotional tone, consistent character identity."
     },
     {
       "scene_id": "scene_14",
       "environment": "house_interior_evening.png",
-      "characters": ["rahul.png", "grand_father.png"],
+      "characters": ["rahul.png", "grand_father1.png"],
       "active_chars": 2,
       "prompt": "Wide cinematic shot of the boy and grandfather sitting together near a window with golden sunlight streaming in, dust particles visible in air. Both smiling peacefully, calm emotional ending, stable composition, soft warm lighting, gentle cinematic feel."
     }
